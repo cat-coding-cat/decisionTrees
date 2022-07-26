@@ -12,11 +12,13 @@ Este es un caso de clasificaión multiclase.
 
 Age,Sex,BP,Cholesterol,Na_to_K
 
-34,1,2,1,19.199
+34,1,2,1,19.199,-999
 
-43,0,0,1,20.276
+43,0,0,1,20.276,-999
 
-74,0,0,2,10
+74,0,0,2,10,-999
+
+El número -999 al final de los ejemplos es porque el metodo .predict de DecisionTreeClassifier necesita X con el mismo numero de features.
 
 
 2. Adjunta una imagen del Arbol de decisión mas simple (menos nodos) que puedas construir.
