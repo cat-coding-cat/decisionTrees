@@ -8,7 +8,7 @@ El reto es construir un modelo para averiguar qué medicamento podría ser aprop
 Las variables (features) de este conjunto de datos son: edad, sexo, presión arterial y colesterol de los pacientes, y el objetivo (target) es el fármaco al que respondió cada paciente. 
 Este es un caso de clasificaión multiclase.
 
-1. Crear un árbol de decision que permita predecir que medicamento debemos recetar a los siguientes pacientes.
+1. Crear un árbol de decision que permita predecir que medicamento debemos recetar a los siguientes pacientes. Indica para cada uno print() cual es la medicación correcta.
 
 Age,Sex,BP,Cholesterol,Na_to_K
 
