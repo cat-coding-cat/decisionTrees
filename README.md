@@ -11,8 +11,11 @@ Este es un caso de clasificaión multiclase.
 1. Crear un árbol de decision que permita predecir que medicamento debemos recetar a los siguientes pacientes.
 
 Age,Sex,BP,Cholesterol,Na_to_K
+
 34,1,2,1,19.199
+
 43,0,0,1,20.276
+
 74,0,0,2,10
 
 
